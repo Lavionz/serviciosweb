@@ -14,3 +14,11 @@ header ul li button
 {
 	width: 89px;
 }
+
+#secAltaAlumnos
+{
+	margin: 0 auto;
+	width: 350px;
+	display: none;
+}
+
